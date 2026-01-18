@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: paperboard2.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: Acknowledgment.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: General.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Equipment.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: SpiroCount.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: ketluan.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: ref.bib
+Repeated entry---line 83 of file ref.bib
+ : @manual{Catalog_OTS40
+ :                      ,
+I'm skipping whatever remains of this entry
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            522 strings with 4468 characters,
+and the built_in function-call counts, 785 in all, are:
+= -- 85
+> -- 5
+< -- 0
++ -- 5
+- -- 0
+* -- 32
+:= -- 119
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 40
+empty$ -- 86
+format.name$ -- 0
+if$ -- 176
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 0
+newline$ -- 28
+num.names$ -- 0
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 30
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 0
+while$ -- 0
+width$ -- 6
+write$ -- 47
+(There was 1 error message)
