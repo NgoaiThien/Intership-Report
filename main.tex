@@ -1,0 +1,65 @@
+\documentclass[a4paper,13pt]{report}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage[vietnamese]{babel}
+\usepackage{geometry}
+%\usepackage{setspace}
+%\usepackage{bold-extra}
+\usepackage{amssymb,amsmath}
+\usepackage{array}
+%\usepackage{gensymb}
+\usepackage{tikz}
+%\usepackage{titlesec}
+\usepackage{float}
+\usepackage{url}
+\usepackage{makecell}
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{booktabs}    % Tạo đường kẻ bảng đẹp hơn
+\usepackage{subcaption}
+\usepackage{longtable}
+\usepackage{natbib}
+\usepackage{caption}
+\usepackage[table]{xcolor}
+\definecolor{techblue}{RGB}{0, 115, 188} % Màu xanh dương đậm
+\definecolor{highlightyellow}{RGB}{255, 255, 0} % Màu vàng
+% Định nghĩa lệnh tạo dòng kẻ liền
+\newcommand{\solidline}{
+	\noindent\rule{\linewidth}{0.5pt}\\[16pt] % 0.5pt là độ dày, 16pt là khoảng cách dòng
+}
+
+% Định nghĩa lệnh lặp lại dòng kẻ (để code gọn hơn)
+\newcommand{\multilines}[1]{
+	\loop\ifnum#1>0
+	\solidline
+	\advance#1 by -1
+	\repeat
+}
+\newgeometry{
+    top=2cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm
+}
+
+\begin{document}
+	\include{paperboard2.tex}
+	\include{Acknowledgment.tex}
+	%\chapter*{Lời cảm ơn}
+
+	\tableofcontents
+
+	\include{Introduction.tex}
+	\include{General.tex}
+	\include{Equipment.tex}
+	\include{SpiroCount.tex}
+	\include{ketluan.tex}
+	
+%	\include{appendix.tex}
+	\bibliographystyle{plain}
+	\bibliography{ref}
+	\include{nhanxet.tex}
+\end{document}

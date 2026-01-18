@@ -1,0 +1,78 @@
+\babel@toc {vietnamese}{}\relax 
+\contentsline {chapter}{\numberline {1}Lời mở đầu}{4}{}%
+\contentsline {section}{\numberline {1.1}Lý do và tính cấp thiết của đợt thực tập}{4}{}%
+\contentsline {section}{\numberline {1.2}Mục tiêu của đợt thực tập}{4}{}%
+\contentsline {section}{\numberline {1.3}Ý nghĩa của đợt thực tập}{4}{}%
+\contentsline {chapter}{\numberline {2}Tổng quan}{6}{}%
+\contentsline {section}{\numberline {2.1}Vấn đề thực tập}{6}{}%
+\contentsline {section}{\numberline {2.2}Địa điểm thực tập}{6}{}%
+\contentsline {chapter}{\numberline {3}Bể dàn tiêu bản và Máy sấy tiêu bản}{8}{}%
+\contentsline {section}{\numberline {3.1}Bể dàn tiêu bản}{8}{}%
+\contentsline {subsection}{\numberline {3.1.1}Giới thiệu chung}{8}{}%
+\contentsline {subsection}{\numberline {3.1.2}Mục đích sử dụng}{8}{}%
+\contentsline {subsection}{\numberline {3.1.3}Cấu tạo}{9}{}%
+\contentsline {subsection}{\numberline {3.1.4}Thông số kỹ thuật}{9}{}%
+\contentsline {subsection}{\numberline {3.1.5}Danh sách phụ kiện đi kèm}{10}{}%
+\contentsline {subsubsection}{Hình ảnh một số phụ kiện đi kèm}{10}{}%
+\contentsline {subsection}{\numberline {3.1.6}Nguyên lý hoạt động}{10}{}%
+\contentsline {subsubsection}{Nguyên lí gia nhiệt và truyền nhiệt}{10}{}%
+\contentsline {subsubsection}{Cơ chế làm phẳng mẫu}{11}{}%
+\contentsline {subsection}{\numberline {3.1.7}Lắp đặt}{11}{}%
+\contentsline {subsection}{\numberline {3.1.8}Quy tình vận hành}{11}{}%
+\contentsline {subsubsection}{Chuẩn bị và bật nguồn}{11}{}%
+\contentsline {subsubsection}{Tắt nguồn}{11}{}%
+\contentsline {subsection}{\numberline {3.1.9}Bảo dưỡng}{11}{}%
+\contentsline {section}{\numberline {3.2}Máy sấy tiêu bản}{12}{}%
+\contentsline {subsection}{\numberline {3.2.1}Giới thiệu chung}{12}{}%
+\contentsline {subsection}{\numberline {3.2.2}Cấu tạo}{12}{}%
+\contentsline {subsection}{\numberline {3.2.3}Thông số kỹ thuật}{13}{}%
+\contentsline {subsection}{\numberline {3.2.4}Lắp đặt}{13}{}%
+\contentsline {subsection}{\numberline {3.2.5}Vận hành}{13}{}%
+\contentsline {subsection}{\numberline {3.2.6}Khắc phục sự cố}{14}{}%
+\contentsline {subsubsection}{Thay cầu chì}{14}{}%
+\contentsline {subsection}{\numberline {3.2.7}Bảo dưỡng}{15}{}%
+\contentsline {subsubsection}{Hướng dẫn làm sạch}{15}{}%
+\contentsline {chapter}{\numberline {4}Máy đo chức năng hô hấp để bàn SpiroScout}{16}{}%
+\contentsline {section}{\numberline {4.1}Giới thiệu chung}{16}{}%
+\contentsline {section}{\numberline {4.2}Tiêu chuẩn an toàn}{16}{}%
+\contentsline {subsection}{\numberline {4.2.1}Mục đích sử dụng}{16}{}%
+\contentsline {subsection}{\numberline {4.2.2}Chống chỉ định}{16}{}%
+\contentsline {section}{\numberline {4.3}Cấu tạo và thông số kỹ thuật}{17}{}%
+\contentsline {subsection}{\numberline {4.3.1}Máy tính trạm}{17}{}%
+\contentsline {subsection}{\numberline {4.3.2}Phần mềm LPX}{18}{}%
+\contentsline {subsection}{\numberline {4.3.3}SpiroScout}{18}{}%
+\contentsline {subsection}{\numberline {4.3.4}ScoutTube - FPT Filter}{20}{}%
+\contentsline {subsection}{\numberline {4.3.5}Đầu nối, bộ điều khiển và chỉ báo SpiroScout}{21}{}%
+\contentsline {section}{\numberline {4.4}Phần mềm LFX}{21}{}%
+\contentsline {subsection}{\numberline {4.4.1}Nhập dữ liệu}{22}{}%
+\contentsline {section}{\numberline {4.5}Nguyên lý đo lường}{23}{}%
+\contentsline {section}{\numberline {4.6}Quy trình vận hành}{24}{}%
+\contentsline {subsection}{\numberline {4.6.1}Quá trình lắp đặt và chuẩn bị ban đầu}{24}{}%
+\contentsline {subsection}{\numberline {4.6.2}Lắp bộ lọc thở PFT dùng một lần}{24}{}%
+\contentsline {subsection}{\numberline {4.6.3}Làm sạch và khử trùng}{25}{}%
+\contentsline {subsection}{\numberline {4.6.4}Xác minh và hiệu chỉnh}{25}{}%
+\contentsline {subsubsection}{Hiệu chuẩn điểm 0}{25}{}%
+\contentsline {subsubsection}{Thông số môi trường xung quanh}{26}{}%
+\contentsline {subsubsection}{Hiệu chuẩn thể tích}{26}{}%
+\contentsline {subsubsection}{Quy trình hiệu chuẩn thể tích}{26}{}%
+\contentsline {subsubsection}{Kết quả dạng bảng sau khi hiệu chuẩn}{27}{}%
+\contentsline {subsection}{\numberline {4.6.5}Kết quả tốt nhất và giá trị dự đoán}{27}{}%
+\contentsline {subsection}{\numberline {4.6.6}Tổng quan phép đo}{27}{}%
+\contentsline {subsubsection}{Đo phế dung chậm}{27}{}%
+\contentsline {subsubsection}{Đo phế dung cưỡng bức}{28}{}%
+\contentsline {subsubsection}{Kiểm soát chất lượng trong quá trình đo}{30}{}%
+\contentsline {section}{\numberline {4.7}Hình ảnh của một số phép đo}{30}{}%
+\contentsline {subsection}{\numberline {4.7.1}Đo phế dung ký chậm}{30}{}%
+\contentsline {subsection}{\numberline {4.7.2}Đo phế dung ký cưỡng bức}{31}{}%
+\contentsline {section}{\numberline {4.8}Xử lý sự cố}{31}{}%
+\contentsline {section}{\numberline {4.9}Bảo trì}{32}{}%
+\contentsline {subsection}{\numberline {4.9.1}Dịch vụ kỹ thuật}{32}{}%
+\contentsline {subsection}{\numberline {4.9.2}Quy trình Vệ sinh và Khử trùng}{32}{}%
+\contentsline {subsubsection}{Vệ sinh thiết bị và dây cáp}{32}{}%
+\contentsline {subsubsection}{Vệ sinh đầu dò siêu âm (Hàng tuần)}{33}{}%
+\contentsline {subsection}{\numberline {4.9.3}Lắp ráp và tháo dời đầu dò siêu âm}{33}{}%
+\contentsline {subsubsection}{Tháo miếng đệm thở}{33}{}%
+\contentsline {subsubsection}{Thay miếng đệm thở}{33}{}%
+\contentsline {subsubsection}{Bộ phận lắp ráp ống thở có thể tái sử dụng}{34}{}%
+\contentsline {section}{\numberline {4.10}Hình ảnh thực tế}{35}{}%
+\contentsline {chapter}{\numberline {5}Kết Luận}{36}{}%
