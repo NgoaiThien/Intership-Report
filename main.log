@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.17)  19 JAN 2026 04:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.17)  21 JAN 2026 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
 \c@chapter=\count276
@@ -432,15 +432,50 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@dimlist=\toks20
 
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks21
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
@@ -956,6 +991,132 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \minrowclearance=\skip63
 \rownum=\count341
 )
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count342
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count343
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen306
+\Hy@linkcounter=\count344
+\Hy@pagecounter=\count345
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count346
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count347
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen307
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count348
+\Field@Width=\dimen308
+\Fld@charsize=\dimen309
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count349
+\c@Item=\count350
+\c@Hfootnote=\count351
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count352
+\c@bookmark@seq@number=\count353
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip64
+)
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: 
 * paper: a4paper
@@ -973,12 +1134,12 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -988,19 +1149,19 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 50
+.
 
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5ptm.fd
+File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
+)
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count342
-)
-
-LaTeX Warning: Unused global option(s):
-    [13pt].
-
-(main.aux (paperboard2.aux)
+\l__color_backend_stack_int=\count354
+) (main.aux (paperboard2.aux)
 Package babel Info: 'vietnamese' activates 'vietnamese' shorthands.
-(babel)             Reported on input line 6.
+(babel)             Reported on input line 9.
  (Acknowledgment.aux) (Introduction.aux)
 (General.aux) (Equipment.aux) (SpiroCount.aux
 
@@ -1030,36 +1191,40 @@ LaTeX Warning: Label `fig:placeholder' multiply defined.
 ) (ketluan.aux) (nhanxet.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count343
-\scratchdimen=\dimen306
+\scratchcounter=\count355
+\scratchdimen=\dimen310
 \scratchbox=\box76
-\nofMPsegments=\count344
-\nofMParguments=\count345
+\nofMPsegments=\count356
+\nofMParguments=\count357
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count346
-\MPscratchDim=\dimen307
-\MPnumerator=\count347
-\makeMPintoPDFobject=\count348
+\MPscratchCnt=\count358
+\MPscratchDim=\dimen311
+\MPnumerator=\count359
+\makeMPintoPDFobject=\count360
 \everyMPtoPDFconversion=\toks48
 )
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -1091,12 +1256,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1107,16 +1272,22 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 50.
+
+(main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
 \openout2 = `paperboard2.aux'.
 
-
-(paperboard2.tex
-<HUS.png, id=4, 118.041pt x 135.8676pt>
+ (paperboard2.tex
+<HUS.png, id=234, 118.041pt x 135.8676pt>
 File: HUS.png Graphic file (type png)
 <use HUS.png>
 Package pdftex.def Info: HUS.png  used on input line 20.
@@ -1125,23 +1296,54 @@ Package pdftex.def Info: HUS.png  used on input line 20.
 
 
 
-{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./HUS.png>])
+{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Admi
+n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/vntex/t5.enc} <./HUS.png>])
 \openout2 = `Acknowledgment.aux'.
 
  (Acknowledgment.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 12.
 
-
-(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 12.
 
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 12.
 
-(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-[1
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 12.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+2.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 	\include{Acknowledgment.tex}
+                                   [1
 
 
 
@@ -1151,8 +1353,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ])
-\tf@toc=\write4
-\openout4 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  [3]
 \openout2 = `Introduction.aux'.
@@ -1169,20 +1371,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 13--55
-
- []
-
 [4
 
 
-] [5]
+])
+Underfull \hbox (badness 10000) in paragraph at lines 13--57
+
+ []
+
+[5]
 \openout2 = `General.aux'.
 
  (General.tex
 Ch\uhorn \ohorn ng 2.
-<phunguyen.jpg, id=29, 341.77687pt x 224.33812pt>
+<phunguyen.jpg, id=322, 341.77687pt x 224.33812pt>
 File: phunguyen.jpg Graphic file (type jpg)
 <use phunguyen.jpg>
 Package pdftex.def Info: phunguyen.jpg  used on input line 9.
@@ -1192,17 +1394,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--11
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--16
-
- []
-
 [6
 
 
 
 
- <./phunguyen.jpg>]) [7]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
+
+ []
+
+) [7 <./phunguyen.jpg>]
 \openout2 = `Equipment.aux'.
 
  (Equipment.tex
@@ -1212,12 +1414,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-<TFB 45.png, id=37, 399.894pt x 293.898pt>
+<TFB 45.png, id=335, 399.894pt x 293.898pt>
 File: TFB 45.png Graphic file (type png)
 <use TFB 45.png>
 Package pdftex.def Info: TFB 45.png  used on input line 11.
 (pdftex.def)             Requested size: 386.95897pt x 284.40353pt.
-<TFB 55.png, id=38, 332.442pt x 121.05225pt>
+<TFB 55.png, id=338, 332.442pt x 121.05225pt>
 File: TFB 55.png Graphic file (type png)
 <use TFB 55.png>
 Package pdftex.def Info: TFB 55.png  used on input line 17.
@@ -1227,8 +1429,17 @@ Package pdftex.def Info: TFB 55.png  used on input line 17.
 
 
 
-] [9 <./TFB 45.png> <./TFB 55.png>]
-<lid.png, id=50, 223.43475pt x 99.9735pt>
+]
+Underfull \hbox (badness 6220) in paragraph at lines 34--34
+[]|\T5/ptm/m/n/12 K½ch th÷îc ph¦n b¶n trong
+ []
+
+[9 <./TFB 45.png> <./TFB 55.png>]
+Underfull \hbox (badness 6220) in paragraph at lines 57--57
+[]|\T5/ptm/m/n/12 K½ch th÷îc ph¦n b¶n trong
+ []
+
+<lid.png, id=355, 223.43475pt x 99.9735pt>
 File: lid.png Graphic file (type png)
 <use lid.png>
 Package pdftex.def Info: lid.png  used on input line 85.
@@ -1238,17 +1449,24 @@ Overfull \hbox (29.95842pt too wide) in paragraph at lines 85--86
  [][] 
  []
 
-<thermometer.png, id=51, 124.66576pt x 29.51025pt>
+<thermometer.png, id=356, 124.66576pt x 29.51025pt>
 File: thermometer.png Graphic file (type png)
 <use thermometer.png>
 Package pdftex.def Info: thermometer.png  used on input line 91.
 (pdftex.def)             Requested size: 124.66544pt x 29.51016pt.
-<thermometer2.png, id=52, 125.268pt x 44.5665pt>
+<thermometer2.png, id=357, 125.268pt x 44.5665pt>
 File: thermometer2.png Graphic file (type png)
 <use thermometer2.png>
 Package pdftex.def Info: thermometer2.png  used on input line 97.
 (pdftex.def)             Requested size: 125.26768pt x 44.56638pt.
-[10 <./lid.png> <./thermometer.png> <./thermometer2.png>]
+[10{C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+04.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[11 <./lid.png> <./thermometer.png> <./thermometer2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
@@ -1258,282 +1476,318 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
-) (OTS 40.tex [11]
-<ots40_more.png, id=65, 501.67426pt x 304.13625pt>
+) (OTS 40.tex [12]
+<ots40_more.png, id=401, 501.67426pt x 304.13625pt>
 File: ots40_more.png Graphic file (type png)
 <use ots40_more.png>
 Package pdftex.def Info: ots40_more.png  used on input line 11.
 (pdftex.def)             Requested size: 386.95897pt x 234.59865pt.
- [12 <./ots40_more.png>]
+ [13 <./ots40_more.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
-<temperature.png, id=71, 223.43475pt x 104.18925pt>
+<temperature.png, id=414, 223.43475pt x 104.18925pt>
 File: temperature.png Graphic file (type png)
 <use temperature.png>
 Package pdftex.def Info: temperature.png  used on input line 68.
 (pdftex.def)             Requested size: 241.84843pt x 112.78183pt.
-<setting.png, id=72, 465.53925pt x 106.59825pt>
+[14]
+<setting.png, id=421, 465.53925pt x 106.59825pt>
 File: setting.png Graphic file (type png)
 <use setting.png>
 Package pdftex.def Info: setting.png  used on input line 73.
 (pdftex.def)             Requested size: 338.58632pt x 77.52979pt.
-[13]
-<fix.png, id=76, 248.72925pt x 148.1535pt>
+<fix.png, id=422, 248.72925pt x 148.1535pt>
 File: fix.png Graphic file (type png)
 <use fix.png>
 Package pdftex.def Info: fix.png  used on input line 90.
 (pdftex.def)             Requested size: 338.58632pt x 201.68277pt.
-
+ [15 <./temperature.png> <./setting.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 96--99
 
  []
 
-[14 <./temperature.png> <./setting.png> <./fix.png>])) [15]
+)) [16 <./fix.png>]
 \openout2 = `SpiroCount.aux'.
 
  (SpiroCount.tex
 Ch\uhorn \ohorn ng 4.
-[16
+[17
 
 
 
 
 ]
-<PC-system.png, id=89, 2577.63pt x 1933.2225pt>
+<PC-system.png, id=452, 2577.63pt x 1933.2225pt>
 File: PC-system.png Graphic file (type png)
 <use PC-system.png>
 Package pdftex.def Info: PC-system.png  used on input line 52.
 (pdftex.def)             Requested size: 241.84843pt x 181.38666pt.
- [17 <./PC-system.png (PNG copy)>]
-<KÃ­ch-thÆ°á»›c-tá»•ng-quÃ¡t.png, id=93, 837.1275pt x 337.26pt>
+ [18 <./PC-system.png (PNG copy)>]
+<KÃ­ch-thÆ°á»›c-tá»•ng-quÃ¡t.png, id=459, 837.1275pt x 337.26pt>
 File: KÃ­ch-thÆ°á»›c-tá»•ng-quÃ¡t.png Graphic file (type png)
 <use KÃ­ch-thÆ°á»›c-tá»•ng-quÃ¡t.png>
 Package pdftex.def Info: KÃ­ch-thÆ°á»›c-tá»•ng-quÃ¡t.png  used on input line 12
 1.
 (pdftex.def)             Requested size: 241.84843pt x 97.43236pt.
-<SpiroScout.png, id=94, 432.86719pt x 225.84375pt>
+ [19]
+<SpiroScout.png, id=464, 432.86719pt x 225.84375pt>
 File: SpiroScout.png Graphic file (type png)
 <use SpiroScout.png>
 Package pdftex.def Info: SpiroScout.png  used on input line 132.
 (pdftex.def)             Requested size: 241.84843pt x 126.18216pt.
- [18 <./KÃ­ch-thÆ°á»›c-tá»•ng-quÃ¡t.png (PNG copy)>]
-Overfull \hbox (197.50742pt too wide) in paragraph at lines 137--174
+
+Overfull \hbox (260.67183pt too wide) in paragraph at lines 137--174
 [][] 
  []
 
-<Real-ScoutTube.png, id=99, 3485.02pt x 4641.34pt>
+[20 <./KÃ­ch-thÆ°á»›c-tá»•ng-quÃ¡t.png (PNG copy)> <./SpiroScout.png>]
+<Real-ScoutTube.png, id=472, 3485.02pt x 4641.34pt>
 File: Real-ScoutTube.png Graphic file (type png)
 <use Real-ScoutTube.png>
 Package pdftex.def Info: Real-ScoutTube.png  used on input line 178.
 (pdftex.def)             Requested size: 241.84843pt x 322.02333pt.
-[19 <./SpiroScout.png>]
-Overfull \hbox (239.66013pt too wide) in paragraph at lines 183--205
+ [21]
+Overfull \hbox (290.45909pt too wide) in paragraph at lines 183--205
 [] 
  []
 
-<SpiroScout-anh2.png, id=104, 289.83281pt x 192.72pt>
+<SpiroScout-anh2.png, id=477, 289.83281pt x 192.72pt>
 File: SpiroScout-anh2.png Graphic file (type png)
 <use SpiroScout-anh2.png>
 Package pdftex.def Info: SpiroScout-anh2.png  used on input line 210.
 (pdftex.def)             Requested size: 241.84843pt x 160.81328pt.
-<SpiroScout-anh3.png, id=105, 336.50719pt x 253.69781pt>
+<SpiroScout-anh3.png, id=478, 336.50719pt x 253.69781pt>
 File: SpiroScout-anh3.png Graphic file (type png)
 <use SpiroScout-anh3.png>
 Package pdftex.def Info: SpiroScout-anh3.png  used on input line 216.
 (pdftex.def)             Requested size: 241.84843pt x 182.33324pt.
-[20 <./Real-ScoutTube.png (PNG copy)>]
+[22 <./Real-ScoutTube.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 223--225
 
  []
 
-<screen_LFX.png, id=109, 505.28775pt x 314.97675pt>
+<screen_LFX.png, id=484, 505.28775pt x 314.97675pt>
 File: screen_LFX.png Graphic file (type png)
 <use screen_LFX.png>
 Package pdftex.def Info: screen_LFX.png  used on input line 228.
 (pdftex.def)             Requested size: 241.84843pt x 150.75937pt.
-[21 <./SpiroScout-anh2.png> <./SpiroScout-anh3.png>]
-<Nhapdulieu.png, id=115, 532.23843pt x 331.2375pt>
+[23 <./SpiroScout-anh2.png> <./SpiroScout-anh3.png>]
+<Nhapdulieu.png, id=493, 532.23843pt x 331.2375pt>
 File: Nhapdulieu.png Graphic file (type png)
 <use Nhapdulieu.png>
 Package pdftex.def Info: Nhapdulieu.png  used on input line 236.
 (pdftex.def)             Requested size: 241.84843pt x 150.51112pt.
 
-Underfull \hbox (badness 1881) in paragraph at lines 299--299
-[]|\T5/cmr/m/n/9 Ch¿ sè khèi cì thº t½nh
+Underfull \hbox (badness 7907) in paragraph at lines 299--299
+[]|\T5/ptm/m/n/10.95 Di»n t½ch b· m°t cì
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 299--299
-[]|\T5/cmr/m/n/9 Trång l÷ñng t÷ìng
+Underfull \hbox (badness 2772) in paragraph at lines 299--299
+\T5/ptm/m/n/10.95 thº t½nh b¬ng $\OML/ztmcm/m/it/10.95 m[]$ \T5/ptm/m/n/10.95 t
+heo
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 299--299
+[]|\T5/ptm/m/n/10.95 Trång l÷ñng t÷ìng ^^_èi
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 299--299
+[]|  []  \T5/ptm/b/n/10.95 Nam: $\OML/ztmcm/m/it/10.95 LBW \OT1/ztmcm/m/n/10.95
+ = (1\OML/ztmcm/m/it/10.95 :\OT1/ztmcm/m/n/10.95 10 \OMS/ztmcm/m/n/10.95 ^^B []
+\OT1/ztmcm/m/n/10.95 ) \OMS/ztmcm/m/n/10.95 ^^@ \OT1/ztmcm/m/n/10.95 128 \OMS/z
+tmcm/m/n/10.95 ^^B
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 299--299
-[]|\T5/cmr/m/n/9 Pack years (Hót
+[]|\T5/ptm/m/n/10.95 Chi·u cao tø
  []
 
-[22 <./screen_LFX.png> <./Nhapdulieu.png>]
-<measurement-principle.png, id=121, 219.06844pt x 173.14688pt>
+
+Underfull \hbox (badness 3623) in paragraph at lines 299--299
+[] \OT1/ztmcm/m/n/10.95 = 67\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 90 + 0
+\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 664182 \OMS/ztmcm/m/n/10.95 ^^B []
+ \OT1/ztmcm/m/n/10.95 + 2\OML/ztmcm/m/it/10.95 ; \OT1/ztmcm/m/n/10.95 816 \OMS/
+ztmcm/m/n/10.95 ^^B
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 299--299
+\T5/ptm/m/it/10.95 (Trong ^^_â: Giîi t½nh: 1=Nam, 2=Nú; Chõng tëc:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\T5/ptm/m/n/10.95 Pack years (Hót
+ []
+
+[24 <./screen_LFX.png> <./Nhapdulieu.png>]
+<measurement-principle.png, id=503, 219.06844pt x 173.14688pt>
 File: measurement-principle.png Graphic file (type png)
 <use measurement-principle.png>
 Package pdftex.def Info: measurement-principle.png  used on input line 308.
 (pdftex.def)             Requested size: 241.84843pt x 191.15436pt.
- [23 <./measurement-principle.png>]
-<setting-PFT-filter.png, id=138, 302.63063pt x 273.27094pt>
+ [25] [26 <./measurement-principle.png>]
+<setting-PFT-filter.png, id=530, 302.63063pt x 273.27094pt>
 File: setting-PFT-filter.png Graphic file (type png)
 <use setting-PFT-filter.png>
 Package pdftex.def Info: setting-PFT-filter.png  used on input line 359.
 (pdftex.def)             Requested size: 241.84843pt x 218.38768pt.
 
-[24]
 Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
 
-[25 <./setting-PFT-filter.png>]
-<volume_calibration.png, id=147, 516.7305pt x 322.20375pt>
+[27 <./setting-PFT-filter.png>] [28]
+<volume_calibration.png, id=552, 516.7305pt x 322.20375pt>
 File: volume_calibration.png Graphic file (type png)
 <use volume_calibration.png>
 Package pdftex.def Info: volume_calibration.png  used on input line 427.
 (pdftex.def)             Requested size: 241.84843pt x 150.80156pt.
- [26]
-<IVC.png, id=153, 572.1375pt x 179.4705pt>
+ [29 <./volume_calibration.png>]
+<IVC.png, id=571, 572.1375pt x 179.4705pt>
 File: IVC.png Graphic file (type png)
 <use IVC.png>
 Package pdftex.def Info: IVC.png  used on input line 451.
 (pdftex.def)             Requested size: 241.84843pt x 75.86453pt.
-<EVC.png, id=154, 564.30824pt x 187.29974pt>
+<EVC.png, id=572, 564.30824pt x 187.29974pt>
 File: EVC.png Graphic file (type png)
 <use EVC.png>
 Package pdftex.def Info: EVC.png  used on input line 459.
 (pdftex.def)             Requested size: 241.84843pt x 80.27151pt.
-
-Overfull \hbox (8.55904pt too wide) in paragraph at lines 455--462
-\T5/cmr/m/n/10 Sau mët thíi gian thð nhµ v  ^^_·u ^^_°n, b»nh nh¥n h½t v o ho n
- to n, sau ^^_â thð ra ho n to n. EVC(Expiratory
- []
-
-[27 <./volume_calibration.png> <./IVC.png>]
-<volume.png, id=160, 791.95876pt x 246.9225pt>
+ [30 <./IVC.png>]
+<volume.png, id=585, 791.95876pt x 246.9225pt>
 File: volume.png Graphic file (type png)
 <use volume.png>
 Package pdftex.def Info: volume.png  used on input line 486.
 (pdftex.def)             Requested size: 386.95897pt x 120.6502pt.
-<flow.png, id=161, 572.1375pt x 263.7855pt>
+ [31 <./EVC.png>]
+<flow.png, id=598, 572.1375pt x 263.7855pt>
 File: flow.png Graphic file (type png)
 <use flow.png>
 Package pdftex.def Info: flow.png  used on input line 493.
 (pdftex.def)             Requested size: 386.95897pt x 178.40977pt.
- [28 <./EVC.png> <./volume.png>]
-[29 <./flow.png>]
-<SV_review.png, id=172, 742.57425pt x 410.13225pt>
+ [32 <./volume.png> <./flow.png>]
+<SV_review.png, id=609, 742.57425pt x 410.13225pt>
 File: SV_review.png Graphic file (type png)
 <use SV_review.png>
 Package pdftex.def Info: SV_review.png  used on input line 531.
 (pdftex.def)             Requested size: 386.95897pt x 213.72058pt.
-<IVC_review.png, id=173, 237.2865pt x 114.4275pt>
+<IVC_review.png, id=610, 237.2865pt x 114.4275pt>
 File: IVC_review.png Graphic file (type png)
 <use IVC_review.png>
 Package pdftex.def Info: IVC_review.png  used on input line 547.
 (pdftex.def)             Requested size: 290.22107pt x 139.95578pt.
-<EVC_review.png, id=174, 231.86626pt x 100.57574pt>
+<EVC_review.png, id=611, 231.86626pt x 100.57574pt>
 File: EVC_review.png Graphic file (type png)
 <use EVC_review.png>
 Package pdftex.def Info: EVC_review.png  used on input line 563.
 (pdftex.def)             Requested size: 290.22107pt x 125.89891pt.
-<SVC_review.png, id=175, 836.52525pt x 473.3685pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<SVC_review.png, id=612, 836.52525pt x 473.3685pt>
 File: SVC_review.png Graphic file (type png)
 <use SVC_review.png>
 Package pdftex.def Info: SVC_review.png  used on input line 569.
 (pdftex.def)             Requested size: 386.95897pt x 218.97284pt.
- [30 <./SV_review.png> <./IVC_review.png> <./EVC_review.png>]
-<Forced_review.png, id=183, 855.195pt x 481.19775pt>
+[33 <./SV_review.png>]
+<Forced_review.png, id=620, 855.195pt x 481.19775pt>
 File: Forced_review.png Graphic file (type png)
 <use Forced_review.png>
 Package pdftex.def Info: Forced_review.png  used on input line 577.
 (pdftex.def)             Requested size: 386.95897pt x 217.73381pt.
-
-Underfull \hbox (badness 1472) in paragraph at lines 584--584
-[]|\T5/cmr/bx/n/10 Kiºm tra / Quy tr¼nh /
+ [34 <./IVC_review.png> <./EVC_review.png> <./SVC_review.png>]
+Underfull \hbox (badness 3428) in paragraph at lines 584--584
+[]|\T5/ptm/b/n/12 Kiºm tra / Quy tr¼nh /
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 611--611
-[]|\T5/cmr/m/n/10 Thæng b¡o léi ^^^iºm
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+\T5/ptm/m/n/12 Com-mu-ni-ca-tion
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 613--614
-[]\T5/cmr/m/n/10 Vi»c thi¸t lªp ^^_iºm chu©n
+Underfull \hbox (badness 6078) in paragraph at lines 597--597
+\T5/ptm/m/n/12 ghi Ph¸ dung kþ
  []
 
-ignored error: Infinite glue shrinkage found in box being split [31 <./SVC_revi
-ew.png> <./Forced_review.png>] [32]
-<craft1.png, id=192, 122.859pt x 134.904pt>
+
+Underfull \hbox (badness 1308) in paragraph at lines 601--602
+[]\T5/ptm/m/n/12 ^^^¦u dá l÷u l÷ñng (Flow
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [35 <./Forced_r
+eview.png>] [36]
+<craft1.png, id=643, 122.859pt x 134.904pt>
 File: craft1.png Graphic file (type png)
 <use craft1.png>
 Package pdftex.def Info: craft1.png  used on input line 661.
 (pdftex.def)             Requested size: 241.84843pt x 265.58954pt.
-<craft2.png, id=193, 238.491pt x 134.30174pt>
+<craft2.png, id=644, 238.491pt x 134.30174pt>
 File: craft2.png Graphic file (type png)
 <use craft2.png>
 Package pdftex.def Info: craft2.png  used on input line 668.
 (pdftex.def)             Requested size: 145.11053pt x 81.71695pt.
-<craft3.png, id=194, 233.673pt x 101.178pt>
+<craft3.png, id=645, 233.673pt x 101.178pt>
 File: craft3.png Graphic file (type png)
 <use craft3.png>
 Package pdftex.def Info: craft3.png  used on input line 674.
 (pdftex.def)             Requested size: 241.84843pt x 104.71777pt.
-<craft4.png, id=195, 416.757pt x 95.75775pt>
+ [37 <./craft1.png> <./craft2.png>]
+<craft4.png, id=663, 416.757pt x 95.75775pt>
 File: craft4.png Graphic file (type png)
 <use craft4.png>
 Package pdftex.def Info: craft4.png  used on input line 682.
 (pdftex.def)             Requested size: 338.58632pt x 77.79712pt.
- [33 <./craft1.png> <./craft2.png> <./craft3.png>]
-<craft5.png, id=202, 188.50426pt x 69.25874pt>
+<craft5.png, id=664, 188.50426pt x 69.25874pt>
 File: craft5.png Graphic file (type png)
 <use craft5.png>
 Package pdftex.def Info: craft5.png  used on input line 688.
 (pdftex.def)             Requested size: 241.84843pt x 88.85905pt.
-<craft6.png, id=203, 166.221pt x 74.07675pt>
+<craft6.png, id=665, 166.221pt x 74.07675pt>
 File: craft6.png Graphic file (type png)
 <use craft6.png>
 Package pdftex.def Info: craft6.png  used on input line 693.
 (pdftex.def)             Requested size: 241.84843pt x 107.78041pt.
-<real_fig1.png, id=204, 496.254pt x 372.1905pt>
+<real_fig1.png, id=666, 496.254pt x 372.1905pt>
 File: real_fig1.png Graphic file (type png)
 <use real_fig1.png>
 Package pdftex.def Info: real_fig1.png  used on input line 700.
 (pdftex.def)             Requested size: 338.58632pt x 253.93806pt.
-<real_fig2.png, id=205, 492.03825pt x 370.38374pt>
+<real_fig2.png, id=667, 492.03825pt x 370.38374pt>
 File: real_fig2.png Graphic file (type png)
 <use real_fig2.png>
 Package pdftex.def Info: real_fig2.png  used on input line 704.
 (pdftex.def)             Requested size: 338.58632pt x 254.8699pt.
- [34 <./craft4.png> <./craft5.png> <./craft6.png>]) [35 <./real_fig1.png> <./re
-al_fig2.png>]
+ [38 <./craft3.png> <./craft4.png> <./craft5.png> <./craft6.png>]) [39 <./real_
+fig1.png> <./real_fig2.png>]
 \openout2 = `ketluan.aux'.
 
- (ketluan.tex
+(ketluan.tex
 Ch\uhorn \ohorn ng 5.
-) [36
+) [40
 
 
 
 
-] (main.bbl) [37
+] (main.bbl) [41
 
 
 
 ]
 \openout2 = `nhanxet.aux'.
 
- (nhanxet.tex) [38
+ (nhanxet.tex [42
 
 
-] (main.aux (paperboard2.aux)
+]) [43] (main.aux (paperboard2.aux)
 (Acknowledgment.aux) (Introduction.aux) (General.aux) (Equipment.aux)
 (SpiroCount.aux) (ketluan.aux) (nhanxet.aux))
  ***********
@@ -1544,44 +1798,31 @@ L3 programming layer <2025-12-24>
 
 LaTeX Warning: There were multiply-defined labels.
 
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: BCB2A67B27619E0C042FD62878246F5F;10011.
  ) 
 Here is how much of TeX's memory you used:
- 18950 strings out of 467871
- 366788 string characters out of 5418376
- 758365 words of memory out of 5000000
- 47442 multiletter control sequences out of 15000+600000
- 650465 words of font info for 80 fonts, out of 8000000 for 9000
+ 26239 strings out of 467871
+ 479499 string characters out of 5418376
+ 874068 words of memory out of 5000000
+ 54364 multiletter control sequences out of 15000+600000
+ 705703 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,17n,104p,1589b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-0900.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcrm1000.pk><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cmextra/cmex9.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Admin/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Admin/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/A
-dmin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/
-Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.p
-fb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr7.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr9.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Admin/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Admin/AppData/Local
-/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/Admin/AppData/Local
-/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Admin/AppData/Local
-/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx9.pfb><C:/Users/Admin/AppData/Local/
-Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/Admin/AppData/Local/P
-rograms/MiKTeX/fonts/type1/vntex/vnr/vnr6.pfb><C:/Users/Admin/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/Admin/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/Admin/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/vntex/vnr/vnti9.pfb>
-Output written on main.pdf (39 pages, 34784633 bytes).
+ 84i,17n,104p,1589b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiK
+TeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/AppData/Local/Programs/MiKT
+eX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/Admin/AppData/Local/Programs/Mi
+KTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/AppData/Local/Programs/Mi
+KTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/Admin/AppData/Local/Programs/
+MiKTeX/fonts/type1/urw/times/utmri8a.pfb><C:/Users/Admin/AppData/Local/Programs
+/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb>
+Output written on main.pdf (44 pages, 34697288 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 208 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 807 PDF objects out of 1000 (max. 8388607)
+ 232 named destinations out of 1000 (max. 500000)
+ 664 words of extra memory for PDF output out of 10000 (max. 10000000)
 
